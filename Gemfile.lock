@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    hobby (0.0.11)
+      rack
+    puma (3.9.1)
+    rack (2.0.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hobby
+  puma
+
+BUNDLED WITH
+   1.15.1
