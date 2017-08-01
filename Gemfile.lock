@@ -7,6 +7,8 @@ GEM
       sass_paths
     hobby (0.0.12)
       rack
+    hobby-json (0.0.4)
+      rack
     puma (3.9.1)
     rack (2.0.3)
     rails-assets-jquery (3.2.1)
@@ -33,6 +35,7 @@ PLATFORMS
 DEPENDENCIES
   foundation-scss!
   hobby!
+  hobby-json!
   puma!
   rails-assets-jquery!
   rails-assets-teacup!

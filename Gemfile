@@ -4,6 +4,7 @@ source 'https://rubygems.org' do
   gem 'slim'
   gem 'sass'
   gem 'foundation-scss'
+  gem 'hobby-json'
 end
 
 source 'https://rails-assets.org' do
